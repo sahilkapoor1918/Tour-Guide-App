@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="top_sights_colorId">#FFCC80</color>
+    <color name="restaurants_colorId">#80CBC4</color>
+    <color name="monuments_colorId">#FF8A80</color>
+    <color name="events_colorId">#AED581</color>
+</resources>

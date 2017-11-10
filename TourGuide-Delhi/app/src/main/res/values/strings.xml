@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">TourGuide-Delhi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="top_sights">Top Sights</string>]
+    <string name="historical_monuments">His. Monuments</string>
+    <string name="famous_restaurants">Famous Hotels</string>
+    <string name="upcoming_events">Upcoming Events</string>
+
+    <string name="topSightsTitle1">The Red Fort</string>
+    <string name="topSightsTitle2">Lotus Temple</string>
+    <string name="topSightsTitle3">Purana Qila</string>
+    <string name="topSightsTitle4">Gurudwara Bangla Sahib</string>
+    <string name="topSightsTitle5">Rashtrapati Bhavan</string>
+    <string name="topSightsTitle6">Laxminarayan Temple</string>
+    <string name="topSightsTitle7">Parliament House</string>
+
+    <string name="topSightsDetails1">Red Fort has become a grand and attractive place for the tourists from the India as well as abroad.</string>
+    <string name="topSightsDetails2">Architect: Fariborz Sahba\nExpressionist architecture.</string>
+    <string name="topSightsDetails3">There are three gates in Purana Qila named Talaqi Darwaza, Bara Darwaza and Humayun Darwaza.</string>
+    <string name="topSightsDetails4">Connaught Place, Next to Grand Post Office\nArch style: Sikh architecture.</string>
+    <string name="topSightsDetails5">The most prominent aspect of Rashtrapati Bhavan is its dome which is superimposed on its structure.</string>
+    <string name="topSightsDetails6">Creator: Baldeo Das Birla\nHindu temple architecture.</string>
+    <string name="topSightsDetails7">It is one of the most magnificent buildings in New Delhi which has one of the brightest clusters.</string>
+
+    <string name="topSightsLoc1">https://www.google.co.in/maps/place/Red+Fort+Baoli/@28.6589153,77.2387178,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfce2afec5527:0x68c91ea94a7c12f3!8m2!3d28.6589106!4d77.2409065</string>
+    <string name="topSightsLoc2">https://www.google.co.in/maps/place/Lotus+Temple+Rd,+Block+9,+Kalkaji,+New+Delhi,+Delhi+110048/@28.5498813,77.2563388,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce3c23819c4bb:0x17b088ce0d5432d!8m2!3d28.5498766!4d77.2585275</string>
+    <string name="topSightsLoc3">https://www.google.co.in/maps/place/Purana+Qila/@28.6095791,77.2415484,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce3214b3b6771:0x139279610ab2ccb3!8m2!3d28.6095744!4d77.2437371</string>
+    <string name="topSightsLoc4">https://www.google.co.in/maps/place/Gurudwara+Bangla+Sahib+New+Delhi/@28.6263576,77.2068916,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd4db51d8a9d:0xdac87bb4502c9e5f!8m2!3d28.6263529!4d77.2090803</string>
+    <string name="topSightsLoc5">https://www.google.co.in/maps/place/Rashtrapati+Bhavan/@28.6143647,77.1974323,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2a99b6f9fa7:0x83a25e55f0af1c82!8m2!3d28.61436!4d77.199621</string>
+    <string name="topSightsLoc6">https://www.google.co.in/maps/place/Sri+Laxmi+Narayan+Mandir/@28.6326713,77.1968076,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfcbaaa7edb15:0x2d2dc76b52aa7f6e!8m2!3d28.6326666!4d77.1989963</string>
+    <string name="topSightsLoc7">https://www.google.co.in/maps/place/Parliament+Of+India/@28.6172191,77.2059384,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2b22f54e933:0xdbb170ad13258066!8m2!3d28.6172144!4d77.2081271</string>
+
+    <string name="famousRestaurantsTitle1">Veda Restaurant</string>
+    <string name="famousRestaurantsTitle2">Indian Accent</string>
+    <string name="famousRestaurantsTitle3">Tamra Restaurant</string>
+    <string name="famousRestaurantsTitle4">Akira Back</string>
+    <string name="famousRestaurantsTitle5">Have More</string>
+    <string name="famousRestaurantsTitle6">Tadka4986</string>
+    <string name="famousRestaurantsTitle7">La Piazza</string>
+
+    <string name="famousRestaurantsDetails1">H-27, Tropical Building, Connaught Circus\nDelhi 110001</string>
+    <string name="famousRestaurantsDetails2">77, Friends colony West, New Delhi\nDelhi 110065</string>
+    <string name="famousRestaurantsDetails3">19, Ashoka Road, Janpath, Connaught Place\nDelhi 110001</string>
+    <string name="famousRestaurantsDetails4">J W Marriott Hotel, Aerocity, Asset Area 4\nDelhi 110037</string>
+    <string name="famousRestaurantsDetails5">11 - 12, Pandara Market, Barda Ukil Marg\nDelhi 110003</string>
+    <string name="famousRestaurantsDetails6">4986, Ramdwara Road, Nehru bazaar\nDelhi 110055</string>
+    <string name="famousRestaurantsDetails7">Hyatt Regency (FF), Ring Road\nDelhi 110066</string>
+
+    <string name="famousRestaurantsLoc1">https://www.google.co.in/maps/place/Veda+Restaurant/@28.6348117,77.215653,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2c8109d9791:0x2f36850840aa164d!8m2!3d28.634807!4d77.2178417</string>
+    <string name="famousRestaurantsLoc2">https://www.google.co.in/maps/place/Indian+Accent/@28.5704638,77.2544238,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd309eebed77:0xfd133b52e7612c26!8m2!3d28.5704591!4d77.2566125</string>
+    <string name="famousRestaurantsLoc3">https://www.google.co.in/maps/place/Tamra+Restaurant/@28.6209647,77.2159733,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd375c42903b:0xee81c91f1df72220!8m2!3d28.62096!4d77.218162</string>
+    <string name="famousRestaurantsLoc4">https://www.google.co.in/maps/place/Akira+Back/@28.5532802,77.1188853,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1c69172c9c61:0x8ac1a21be53116db!8m2!3d28.5532755!4d77.121074</string>
+    <string name="famousRestaurantsLoc5">https://www.google.co.in/maps/place/Have+More/@28.607814,77.2276006,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2db5a5c6d41:0xa0e6f886aacc1bd6!8m2!3d28.6078093!4d77.2297893</string>
+    <string name="famousRestaurantsLoc6">https://www.google.co.in/maps/place/Tadka4986/@28.6403157,77.2108633,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd46b9e7052d:0x376b3719374d6b4b!8m2!3d28.640311!4d77.213052</string>
+    <string name="famousRestaurantsLoc7">https://www.google.co.in/maps/place/La+Piazza/@28.5691477,77.1829383,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1d84820e54e1:0xe97e2e19f53ed74f!8m2!3d28.569143!4d77.185127</string>
+
+    <string name="monumentsTitle1">Qutb Minar</string>
+    <string name="monumentsTitle2">India Gate</string>
+    <string name="monumentsTitle3">Tomb of Safdar Jang</string>
+    <string name="monumentsTitle4">Humayun\'s Tomb</string>
+    <string name="monumentsTitle5">Tughlaqabad Fort</string>
+    <string name="monumentsTitle6">Tomb of Sikandar Lodi</string>
+    <string name="monumentsTitle7">Raj Ghat</string>
+
+    <string name="monumentsDetails1">It was started building in 1193 by the Qutb-ud-din Aibak however carried on by his successor named Iltutmish.</string>
+    <string name="monumentsDetails2">Robert Garside, a British runner began the first run around-the-world run from India Gate in October 2000.</string>
+    <string name="monumentsDetails3">Arch style : Mughal architecture\nBurials: Safdar Jang.</string>
+    <string name="monumentsDetails4">It is said that the it was built at the cost of 15 lakh rupees (1.5 million).</string>
+    <string name="monumentsDetails5">The fort\'s massive ramparts and bastions speak volumes about the might of the Sultanate.</string>
+    <string name="monumentsDetails6">Islamic architecture\nHindu temple architecture.</string>
+    <string name="monumentsDetails7">Jawaharlal Nehru\'s samadhi is to the north of the Raj Ghat and is known as the Shantivan or Shanti Vana.</string>
+
+    <string name="monumentsLoc1">https://www.google.co.in/maps/place/Qutub+Minar/@28.5265877,77.1837043,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1e07a7870c45:0x22d873b61d341330!8m2!3d28.526583!4d77.185893</string>
+    <string name="monumentsLoc2">https://www.google.co.in/maps/place/India+Gate,+New+Delhi,+Delhi/@28.6090671,77.2241501,15z/data=!3m1!4b1!4m5!3m4!1s0x390ce2db961be393:0xf6c7ef5ee6dd10ae!8m2!3d28.6109401!4d77.234482</string>
+    <string name="monumentsLoc3">https://www.google.co.in/maps/place/Safdarjung+Tomb/@28.5893058,77.2083795,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce291e9cdc555:0xcd09511bfd9337ec!8m2!3d28.5893011!4d77.2105682</string>
+    <string name="monumentsLoc4">https://www.google.co.in/maps/place/Humayun\'s+Tomb/@28.59329,77.2485266,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce31abf44a0c5:0x938663ce3e1f68f7!8m2!3d28.5932818!4d77.2507488</string>
+    <string name="monumentsLoc5">https://www.google.co.in/maps/place/Tughlaqabad+Fort,+Tughlakabad,+New+Delhi,+Delhi/@28.5159649,77.2559258,16z/data=!3m1!4b1!4m5!3m4!1s0x390ce16bac76386f:0x5d576a21b95dff10!8m2!3d28.5163996!4d77.2613488</string>
+    <string name="monumentsLoc6">https://www.google.co.in/maps/place/Sikandar+Lodi+Tomb/@28.5962887,77.2193663,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2eb96f1b5f3:0x893c9bc7d45cc7a1!8m2!3d28.596284!4d77.221555</string>
+    <string name="monumentsLoc7">https://www.google.co.in/maps/place/Raj+Ghat/@28.6406261,77.2473115,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfcdafe80dca3:0x1a5978757d31b6ef!8m2!3d28.6406214!4d77.2495002</string>
+
+    <string name="eventsTitle1">Della Adventure</string>
+    <string name="eventsTitle2">Air Safari</string>
+    <string name="eventsTitle3">Imagica Theme Park</string>
+    <string name="eventsTitle4">Air Adventure</string>
+    <string name="eventsTitle5">Mirchi Live with Vidya Vox</string>
+    <string name="eventsTitle6">Noida Comedy Festival</string>
+    <string name="eventsTitle7">Cabana Candle Light Dinner</string>
+
+    <string name="eventsDetails1">Nov 5 - 30 2017\nRs. 1,600 Onwards</string>
+    <string name="eventsDetails2">Nov 5 - 30 2017\nRs. 1,500 Onwards</string>
+    <string name="eventsDetails3">Nov 5 - 30 2017\nRs. 1,087 Onwards</string>
+    <string name="eventsDetails4">Nov 5 - 30 2017\nRs. 1,399 Onwards</string>
+    <string name="eventsDetails5">Nov 17 - 26 2017\nRs. 999 Onwards</string>
+    <string name="eventsDetails6">Nov 5 2017\nRs. 600 Onwards</string>
+    <string name="eventsDetails7">Nov 5 - 30 2017\nRs. 8,100 Onwards</string>
+
+    <string name="eventsLoc1">https://in.bookmyshow.com/adventure/della-adventure/?</string>
+    <string name="eventsLoc2">https://in.bookmyshow.com/national-capital-region-ncr/events/air-safari/ET00021250</string>
+    <string name="eventsLoc3">https://in.bookmyshow.com/family/imagica-theme-park-tickets/</string>
+    <string name="eventsLoc4">https://in.bookmyshow.com/adventure/paraglider-flight-gurgaon/</string>
+    <string name="eventsLoc5">https://in.bookmyshow.com/national-capital-region-ncr/events/mirchi-live-with-vidya-vox/ET00060797</string>
+    <string name="eventsLoc6">https://in.bookmyshow.com/national-capital-region-ncr/events/punchliners-mirchi-lol-noida-comedy-festival-feat-abhishek-upmanyu-appurv-gupta-and-kishore-dayani/ET00063799</string>
+    <string name="eventsLoc7">https://in.bookmyshow.com/national-capital-region-ncr/events/cabana-candle-light-dinner/ET00056088</string>
+</resources>
